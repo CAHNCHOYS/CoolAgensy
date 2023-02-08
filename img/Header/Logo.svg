@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="94" height="19">
+    <defs>
+        <linearGradient id="lbqubkix0a" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#CF87FC"/>
+            <stop offset="46%" stop-color="#E0A8DD"/>
+            <stop offset="100%" stop-color="#F1C9BE"/>
+        </linearGradient>
+    </defs>
+    <text font-family="SofiaProRegular" fill="url(#lbqubkix0a)" font-size="26" y="13.607">agency.</text>
+</svg>
