@@ -583,7 +583,7 @@ footer {
   margin: 0px 0px 2.8125rem 0px;
 }
 
-.main-block__title p {
+.main-block__title span {
   font-weight: 200;
   font-size: 2.3125rem;
 }
@@ -1125,6 +1125,10 @@ footer {
   transition: all 0.5s ease 0s;
 }
 
+.gallery__title span {
+  display: block;
+}
+
 .gallery__text {
   margin: 0px 0px 3.125rem 0px;
   -webkit-transition: all 0.5s ease 0.2s;
@@ -1507,84 +1511,84 @@ footer {
 @media (max-width: 1230px) {
   .page__services {
     padding-top: calc(
-        80px + 28 *
+        50px + 58 *
           ((100vw - 320px) / (910))
       );
   }
 
   .page__services {
     padding-bottom: calc(
-        80px + 70 *
+        50px + 100 *
           ((100vw - 320px) / (910))
       );
   }
 
   .page__video-block {
     padding-top: calc(
-        80px + 78 *
+        50px + 108 *
           ((100vw - 320px) / (910))
       );
   }
 
   .page__video-block {
     padding-bottom: calc(
-        80px + 20 *
+        50px + 50 *
           ((100vw - 320px) / (910))
       );
   }
 
   .page__advantages {
     padding-top: calc(
-        80px + 40 *
+        50px + 70 *
           ((100vw - 320px) / (910))
       );
   }
 
   .page__advantages {
     padding-bottom: calc(
-        80px + 90 *
+        50px + 120 *
           ((100vw - 320px) / (910))
       );
   }
 
   .page__gallery {
     padding-top: calc(
-        80px + 90 *
+        50px + 120 *
           ((100vw - 320px) / (910))
       );
   }
 
   .page__gallery {
     padding-bottom: calc(
-        80px + 140 *
+        50px + 170 *
           ((100vw - 320px) / (910))
       );
   }
 
   .page__contact {
     padding-top: calc(
-        80px + 120 *
+        50px + 150 *
           ((100vw - 320px) / (910))
       );
   }
 
   .page__contact {
     padding-bottom: calc(
-        80px + 40 *
+        50px + 70 *
           ((100vw - 320px) / (910))
       );
   }
 
   .page__stay-updated {
     padding-top: calc(
-        80px + 30 *
+        50px + 60 *
           ((100vw - 320px) / (910))
       );
   }
 
   .page__stay-updated {
     padding-bottom: calc(
-        80px + 100 *
+        50px + 130 *
           ((100vw - 320px) / (910))
       );
   }
